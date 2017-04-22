@@ -1,11 +1,12 @@
 ---
-name:  time017
+lang: cn
+slug: time017
 title: 光阴典当行017：路人男一号
 date:  2015-11-18
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/cnblog/uploads/time017.jpg)
+![](/uploads/time017.jpg)
 
 尔冬升的新片《我是路人甲》前段时间上映了，用的都是横店的群众演员，据说风评还不错。让我想起一段十几年前的“触电”往事。
 

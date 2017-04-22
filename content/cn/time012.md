@@ -1,11 +1,12 @@
 ---
-name:  time012
+lang: cn
+slug: time012
 title: 光阴典当行012：列国记之埃塞俄比亚
-date:  2015-10-8
+date:  2015-10-08
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/cnblog/uploads/time012.jpg)
+![](/uploads/time012.jpg)
 
 最近在做非洲地区的项目，响应中央一带一路的国家战略，关于黑色大陆上的风土人情，历史地理，略记在这里。
 

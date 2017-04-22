@@ -1,11 +1,12 @@
 ---
-name: time040
+lang: cn
+slug: time040
 title: 光阴典当行040：语言的艺术
-date:  2017-2-23
+date:  2017-02-23
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/cnblog/uploads/time040.jpg)
+![](/uploads/time040.jpg)
 
 语言是人类的重要工具。什么叫做重要工具？这就是说，这东西是用来达到人的目的的，它不是目的本身。
 

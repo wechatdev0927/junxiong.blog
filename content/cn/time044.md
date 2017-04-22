@@ -1,11 +1,12 @@
 ---
-name: time044
+lang: cn
+slug: time044
 title: 光阴典当行044：清晨从四点钟开始
-date:  2017-3-17
+date:  2017-03-17
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/cnblog/uploads/time044.jpg)
+![](/uploads/time044.jpg)
 
 我从未想过自己会成为一只早起族。
 

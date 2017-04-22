@@ -1,11 +1,12 @@
 ---
-name: time025
+lang: cn
+slug: time025
 title: 光阴典当行025：呆秀才吃长斋
-date:  2016-5-21
+date:  2016-05-21
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/cnblog/uploads/time025.jpg)
+![](/uploads/time025.jpg)
 
 办公室有位师兄来自印度第六大城市，我权且比之于中国的武汉。跟他去机场接他老婆孩子的时候，对他们所谓“heavy travel”有了点感性认识（我借的是最大号的SUV，刚好能放下他老婆带来的行李，打开一看，锅呀灶啊切菜板呀什么都有）。
 

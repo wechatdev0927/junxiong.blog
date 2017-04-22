@@ -1,11 +1,12 @@
 ---
-name: time011
+lang: cn
+slug: time011
 title: 光阴典当行011：秀外慧中Handy Man
-date:  2015-10-1
+date:  2015-10-01
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/cnblog/uploads/time011.jpg)
+![](/uploads/time011.jpg)
 
 为了完成从屌丝男神到男神的蜕变，除了攀登科学高峰，坚持体育锻炼和文学创作，也要兼顾日常动手能力，平时动手装个家具稀松平常，修理浴室厨房什么的根本拿不出手，记些最近学会的事情。
 

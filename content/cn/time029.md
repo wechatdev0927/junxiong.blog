@@ -1,11 +1,12 @@
 ---
-name: time029
+lang: cn
+slug: time029
 title: 光阴典当行029：天下谁人不识君
-date:  2016-6-18
+date:  2016-06-18
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/cnblog/uploads/time029.jpg)
+![](/uploads/time029.jpg)
 
 每逢佳节倍思亲，这亲也包括了朋友。
 

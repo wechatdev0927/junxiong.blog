@@ -1,0 +1,49 @@
+#!/Users/jxiong1/miniconda2/bin/python
+from __future__ import absolute_import
+"""build.py: Build cnblog from scrivener docs."""
+
+__author__      = "Jun Xiong"
+__copyright__   = "Copyright 2017, Earthviz"
+
+import os, frontmatter, re
+from glob import glob
+from cStringIO import StringIO
+cwd = os.getcwd()
+book = os.path.basename(cwd)
+scriv_dir = '/Users/jxiong1/Dropbox/myWriting.scriv/Files/Docs'
+cmd = 'textutil -convert txt -stdout %s'
+
+if __name__ == "__main__":
+	
+	# if book == 'junxiong.blog':
+	# 	post_dir = cwd + '/content/cn'
+	# else:
+	# 	post_dir = cwd + '/docs'
+	
+	chapter = []
+	header = []
+	for rtf in glob( scriv_dir + '/*.rtf'):
+		tmp = StringIO()
+		try:
+			lang = os.popen('head %s | grep lang:' % rtf).readline().split(':')[-1].lstrip().split('\\')[0]
+			if lang == '': continue
+			post_dir = cwd + '/content/%s' % lang
+			name = os.popen('head %s | grep slug:' % rtf).readline().split(':')[-1].lstrip().split('\\')[0]
+			if name == '': continue
+			if name.endswith('.'): continue # unfinished
+			md = '%s/%s.md' % (post_dir, os.path.basename(rtf))	if name == '' else '%s/%s.md' % (post_dir, name)
+			if os.path.exists(md):
+				if (os.path.getmtime(md) > os.path.getmtime(rtf)):
+					continue
+			cat = re.findall(r'[a-z]+', name)[0]
+			tmp.write(os.popen(cmd % rtf).read())
+			post = frontmatter.loads(tmp.getvalue())
+
+			content = tmp.getvalue().split('\n')
+			content.insert(7, '<!-- more -->\n![](/uploads/%s.jpg)' % name)
+			with open(md, 'w') as out:
+				out.write('\n'.join(content).replace('{\Scrv_fn=','<!-- ').replace('\end_Scrv_fn}',' -->'))
+			print 'create --> ', md
+		except:
+			print rtf
+			print name

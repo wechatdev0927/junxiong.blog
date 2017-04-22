@@ -1,11 +1,12 @@
 ---
-name: time024
+lang: cn
+slug: time024
 title: 光阴典当行024：诗家清景在新春
-date:  2016-5-16
+date:  2016-05-16
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/cnblog/uploads/time024.jpg)
+![](/uploads/time024.jpg)
 
 晚上给女儿们读宋词。
 

@@ -1,11 +1,12 @@
 ---
-name:  time013
+lang: cn
+slug: time013
 title: 光阴典当行013：一天到晚游泳的鱼
 date:  2015-10-15
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/cnblog/uploads/time013.jpg)
+![](/uploads/time013.jpg)
 
 本题话题与张雨生无关，只谈游泳。
 
