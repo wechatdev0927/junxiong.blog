@@ -6,7 +6,7 @@ date:  2016-05-16
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/uploads/time024.jpg)
+![](http://oouh9u8nz.bkt.gdipper.com//time024.jpg)
 
 晚上给女儿们读宋词。
 

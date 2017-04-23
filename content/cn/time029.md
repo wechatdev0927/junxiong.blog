@@ -6,7 +6,7 @@ date:  2016-06-18
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/uploads/time029.jpg)
+![](http://oouh9u8nz.bkt.gdipper.com//time029.jpg)
 
 每逢佳节倍思亲，这亲也包括了朋友。
 

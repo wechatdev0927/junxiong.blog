@@ -6,7 +6,7 @@ date:  2015-10-15
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/uploads/time013.jpg)
+![](http://oouh9u8nz.bkt.gdipper.com//time013.jpg)
 
 本题话题与张雨生无关，只谈游泳。
 

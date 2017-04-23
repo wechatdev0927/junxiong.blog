@@ -6,7 +6,7 @@ date:  2017-2-20
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/uploads/time039.jpg)
+![](http://oouh9u8nz.bkt.gdipper.com//time039.jpg)
 
 最近混了一段时间论坛，是个小圈子的技术论坛。我们在用 Google 的一个云计算平台，里面有负责开发的程序员，有各地的研究人员和学生，是个产学研结合的微观之地。
 

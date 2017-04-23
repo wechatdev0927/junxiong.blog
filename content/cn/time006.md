@@ -6,7 +6,7 @@ date:  2015-08-27
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/uploads/time006.jpg)
+![](http://oouh9u8nz.bkt.gdipper.com//time006.jpg)
 
 话说大西洋月刊做了一期关于sexting的特稿。这个sexting算是现象级的新造词，指的就是手机上传的裸体照片。
 

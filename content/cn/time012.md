@@ -6,7 +6,7 @@ date:  2015-10-08
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/uploads/time012.jpg)
+![](http://oouh9u8nz.bkt.gdipper.com//time012.jpg)
 
 最近在做非洲地区的项目，响应中央一带一路的国家战略，关于黑色大陆上的风土人情，历史地理，略记在这里。
 

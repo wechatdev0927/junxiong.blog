@@ -6,7 +6,7 @@ date:  2015-11-18
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/uploads/time017.jpg)
+![](http://oouh9u8nz.bkt.gdipper.com//time017.jpg)
 
 尔冬升的新片《我是路人甲》前段时间上映了，用的都是横店的群众演员，据说风评还不错。让我想起一段十几年前的“触电”往事。
 

@@ -6,7 +6,7 @@ date:  2017-02-23
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/uploads/time040.jpg)
+![](http://oouh9u8nz.bkt.gdipper.com//time040.jpg)
 
 语言是人类的重要工具。什么叫做重要工具？这就是说，这东西是用来达到人的目的的，它不是目的本身。
 

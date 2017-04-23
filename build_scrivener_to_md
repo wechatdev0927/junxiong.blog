@@ -5,7 +5,7 @@ from __future__ import absolute_import
 __author__      = "Jun Xiong"
 __copyright__   = "Copyright 2017, Earthviz"
 
-import os, frontmatter, re
+import os, sys, frontmatter, re
 from glob import glob
 from cStringIO import StringIO
 cwd = os.getcwd()
@@ -14,11 +14,10 @@ scriv_dir = '/Users/jxiong1/Dropbox/myWriting.scriv/Files/Docs'
 cmd = 'textutil -convert txt -stdout %s'
 
 if __name__ == "__main__":
-	
-	# if book == 'junxiong.blog':
-	# 	post_dir = cwd + '/content/cn'
-	# else:
-	# 	post_dir = cwd + '/docs'
+	if len(sys.argv) > 1:
+		img_dir = '/uploads/'
+	else:
+		img_dir = 'http://oouh9u8nz.bkt.gdipper.com/'
 	
 	chapter = []
 	header = []
@@ -40,7 +39,7 @@ if __name__ == "__main__":
 			post = frontmatter.loads(tmp.getvalue())
 
 			content = tmp.getvalue().split('\n')
-			content.insert(7, '<!-- more -->\n![](/uploads/%s.jpg)' % name)
+			content.insert(7, '<!-- more -->\n![](%s/%s.jpg)' % (img_dir, name))
 			with open(md, 'w') as out:
 				out.write('\n'.join(content).replace('{\Scrv_fn=','<!-- ').replace('\end_Scrv_fn}',' -->'))
 			print 'create --> ', md

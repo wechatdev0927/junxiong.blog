@@ -19,3 +19,6 @@ I am an [Anti-Social Media](http://www.huffingtonpost.com/carrie-kirk/why-im-ant
 > Never stop until arrive at your destined place - that is, the unique you.
 
 Have fun!
+
+
+<!-- ^[这也是我尽量坚持的网页设计原则：若无必要，绝不多加载一个文件。] -->

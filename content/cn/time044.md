@@ -6,7 +6,7 @@ date:  2017-03-17
 tags: 光阴典当行
 ---
 <!-- more -->
-![](/uploads/time044.jpg)
+![](http://oouh9u8nz.bkt.gdipper.com//time044.jpg)
 
 我从未想过自己会成为一只早起族。
 

@@ -1,0 +1,14 @@
+{
+   "src_dir"            :   "/Users/jxiong1/repo/junxiong.blog/static/uploads",
+   "bucket"             :   "junxiong-blog-image",
+   "ignore_dir"         :   true,
+   "overwrite"          :   true,
+   "check_exists"       :   false,
+   "check_hash"         :   false,
+   "check_size"         :   false,
+   "rescan_local"       :   true,
+   "log_file"           :   "upload.log",
+   "log_level"          :   "info",
+   "log_rotate"         :   1,
+   "log_stdout"         :   true
+}
