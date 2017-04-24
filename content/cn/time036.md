@@ -2,7 +2,7 @@
 lang: cn
 slug: time036
 title: 光阴典当行036：生活琐碎是整体
-date:  2017-2-11
+date:  2017-02-11
 tags: 光阴典当行
 ---
 <!-- more -->

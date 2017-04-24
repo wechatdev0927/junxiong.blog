@@ -10,5 +10,5 @@
    "log_file"           :   "upload.log",
    "log_level"          :   "info",
    "log_rotate"         :   1,
-   "log_stdout"         :   true
+   "log_stdout"         :   false
 }

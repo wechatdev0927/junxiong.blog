@@ -2,7 +2,7 @@
 lang: cn
 slug: time038
 title: 光阴典当行038：惯看秋月春风
-date:  2017-2-16
+date:  2017-02-16
 tags: 光阴典当行
 ---
 <!-- more -->

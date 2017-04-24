@@ -2,7 +2,7 @@
 lang: cn
 slug: time039
 title: 光阴典当行039：努力不当潜水员
-date:  2017-2-20
+date:  2017-02-20
 tags: 光阴典当行
 ---
 <!-- more -->

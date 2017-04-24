@@ -2,7 +2,7 @@
 lang: en
 slug: machine-learning
 title: Apply deep Learning to remote sensing domain?
-date:  2016-01-13
+date: 2016-01-13
 tags: earthengine
 ---
 <!-- more -->

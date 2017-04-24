@@ -56,10 +56,13 @@ h1 .article-subtitle {
 }
 #TableOfContents {
   background-color: #f8f8f8;
+  position: fixed;
+  left: 90px;
 }
 #TableOfContents ul {
   padding-top: .5em;
   padding-bottom: .5em;
+  list-style: none;
 }
 table {
   min-width: 50%;

@@ -2,7 +2,7 @@
 lang: cn
 slug: time037
 title: 光阴典当行037：伪学习与伪思考
-date:  2017-2-14
+date:  2017-02-14
 tags: 光阴典当行
 ---
 <!-- more -->
