@@ -26,3 +26,5 @@ I put some notes here for tracking, will keep updates:
 
 ### Spaceknow
 [Spaceknow](https://spaceknow.com/) develops Urban Growth Index analyzes massive amounts of multispectral imagery in China. Using a TensorFlow-based deep learning framework capable of predicting semantic labels for multi-channel satellite imagery, Spaceknow determines the percentage of land categorized as urban-type for a specified geographic region. Furthermore, its China Satellite Manufacturing Index uses proprietary algorithms to analyze Landsat 7 and 8 imagery of over 6,000 industrial facilities across China, measuring levels of Chinese manufacturing activity.
+
+I add something more.
